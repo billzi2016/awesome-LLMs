@@ -39,4 +39,5 @@ The following documents are shared across topic directories and live only at the
 
 - `CONTRIBUTING.md` and `CONTRIBUTING.zh-CN.md` are shared at the repository root.
 - Topic directories keep only topic-specific content plus their bilingual README entry points.
+- Some GitHub Markdown math rendering may be unstable. For formula-heavy documents, download or clone the repository and view the Markdown locally when equations do not render correctly online.
 - All Git operations should be understood at the `awesome-LLMs/` repository boundary.

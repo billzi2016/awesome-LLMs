@@ -39,4 +39,5 @@
 
 - `CONTRIBUTING.md` 和 `CONTRIBUTING.zh-CN.md` 统一放在仓库根目录。
 - 各主题目录只保留主题内容和双语 README 入口。
+- GitHub 的 Markdown 公式渲染有时不稳定。遇到公式较多的文档在线显示异常时，建议下载或 clone 仓库后在本地查看 Markdown。
 - 所有 Git 操作都应在 `awesome-LLMs/` 总仓库边界理解和执行。
